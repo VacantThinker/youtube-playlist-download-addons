@@ -1,0 +1,14 @@
+# intellij idea
+.idea
+
+# npm or yarn
+node_modules
+
+# output
+dist
+
+# package
+*.zip
+
+#custom
+zinstall.md
